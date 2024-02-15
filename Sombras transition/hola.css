@@ -1,0 +1,25 @@
+div:hover span {
+    transition: 2s;
+}
+
+div:hover .H {
+    color: blue;
+    font-size: 30px
+}
+
+div:hover .o {
+    color: pink;
+    font-size: 100px;
+
+}
+
+div:hover .l {
+    color: brown;
+    font-size: 75px;
+
+}
+
+div:hover .a {
+    color: chartreuse;
+    font-size: 150px;
+}

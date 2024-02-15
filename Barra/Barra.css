@@ -1,0 +1,27 @@
+.contenedor {
+    display: flex;
+}
+
+.box {
+    background-color: rgb(192, 100, 115);
+    padding: 10px 0px 10px 15px;
+    width: 220px;
+    border-radius: 100px;
+    transition: 2s;
+    position: relative;
+}
+
+ul {
+    list-style: none;
+    width: 220px;
+}
+
+p {
+    padding-left: 25px;
+    width: 75%;
+}
+
+.box:hover {
+    width: 270px;
+    z-index: 1;
+}
