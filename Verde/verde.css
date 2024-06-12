@@ -1,0 +1,22 @@
+.conteiner {
+    margin: 50px;
+    height: 30px;
+    width: 350px;
+    border: 1px solid black;
+}
+
+.color {
+    background-color: green;
+    animation: move 3s forwards;
+    height: 100%;
+}
+
+@keyframes move {
+    from {
+        width: 0%;
+    }
+
+    to {
+        width: 77%;
+    }
+}

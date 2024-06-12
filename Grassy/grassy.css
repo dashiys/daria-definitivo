@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+}
+
+.top {
+    background-color: rgba(23, 117, 89, 0.5);
+    position: fixed;
+    width: 100%;
+    border: 0;
+}
+
+.ul1 {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 0;
+}
+
+.home {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: large;
+    display: block;
+    padding: 25px;
+    transition: 0s;
+}
+
+.home:hover {
+    background-color: rgb(25, 128, 95);
+}
+
+.black {
+    background-color: rgb(41, 38, 38);
+    padding-top: 190px;
+    padding-bottom: 176px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    font-size: 3.5em;
+    font-weight: lighter;
+    margin-bottom: 0;
+}
+
+.b1 {
+    margin-top: 5px;
+}
+
+.hierbajo {
+    background-image: url(./pic01.jpg);
+    height: 268px;
+    background-size: auto 100%;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    gap: 20px
+}
+
+.box {
+    width: 682px;
+}
+
+.segundo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 26px;
+    color: rgb(23, 138, 109);
+}
+
+.transp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(217, 224, 222);
+}
+
+.gris {
+    color: rgb(138, 135, 135);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: lighter;
+    color: rgb(59, 59, 59);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+
+.box2 {
+    width: 302px;
+    margin-top: 5px;
+
+}
+
+.lista {
+    padding: 0;
+    list-style: none;
+}
+
+.a2 {
+    color: rgb(77, 77, 77);
+    display: block;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.contenedor2 {
+    background-color: rgb(29, 29, 29);
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+}
+
+.latest {
+    color: white;
+    font-weight: lighter;
+}
+
+.lista1 {
+    padding: 0;
+    list-style: none;
+}
+
+.a3 {
+    color: rgb(59, 80, 105);
+    display: block;
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+.lorem {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 324px;
+    text-align: justify;
+}
+
+.face {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    gap: 20px;
+    width: 337px;
+
+}
+
+.ult {
+    background-color: rgba(23, 117, 89, 0.5);
+
+}
+
+.untitled {
+    text-align: center;
+    margin: 0;
+    padding: 80px 0 80px 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+    background-color: rgb(29, 29, 29);
+}

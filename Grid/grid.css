@@ -1,0 +1,18 @@
+.conteiner {
+    margin: auto;
+    width: 75%;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 10px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 192px;
+}
+
+img {
+    height: 65px;
+}
